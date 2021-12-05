@@ -1,0 +1,693 @@
+online_order,book_table,rate,votes,location,rest_type,cuisines,approx_cost(for two people),listed_in(type),listed_in(city)
+No,No,,0,Banashankari,"Takeaway, Delivery",South Indian,400,Delivery,Banashankari
+No,No,,0,Banashankari,"Takeaway, Delivery",South Indian,400,Delivery,Banashankari
+Yes,Yes,NEW,0,Banashankari,Casual Dining,"Continental, Asian, North Indian, Tea",500,Dine-out,Banashankari
+Yes,Yes,NEW,0,Banashankari,Casual Dining,"Continental, Asian, North Indian, Tea",500,Dine-out,Banashankari
+No,No,,0,Banashankari,Quick Bites,Biryani,250,Dine-out,Banashankari
+No,No,,0,Banashankari,Quick Bites,South Indian,150,Dine-out,Banashankari
+No,No,NEW,0,Banashankari,Quick Bites,South Indian,150,Dine-out,Banashankari
+No,No,,0,Banashankari,Quick Bites,Biryani,250,Dine-out,Banashankari
+No,No,,0,Banashankari,Quick Bites,South Indian,150,Dine-out,Banashankari
+No,No,NEW,0,Banashankari,Quick Bites,South Indian,150,Dine-out,Banashankari
+Yes,No,NEW,0,BTM,Quick Bites,North Indian,300,Delivery,Bannerghatta Road
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Delivery,Bannerghatta Road
+Yes,No,NEW,0,BTM,Quick Bites,North Indian,300,Delivery,Bannerghatta Road
+Yes,No,,0,JP Nagar,Delivery,North Indian,500,Delivery,Bannerghatta Road
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Delivery,Bannerghatta Road
+No,No,,0,Bannerghatta Road,Quick Bites,Fast Food,200,Delivery,Bannerghatta Road
+No,No,,0,Bannerghatta Road,Quick Bites,Fast Food,200,Delivery,Bannerghatta Road
+Yes,No,,0,JP Nagar,Delivery,North Indian,500,Delivery,Bannerghatta Road
+No,No,,0,JP Nagar,Quick Bites,South Indian,150,Delivery,Bannerghatta Road
+No,No,,0,JP Nagar,Quick Bites,South Indian,150,Delivery,Bannerghatta Road
+Yes,No,,0,JP Nagar,Delivery,North Indian,500,Delivery,Bannerghatta Road
+No,No,,0,Bannerghatta Road,Dessert Parlor,Desserts,300,Desserts,Bannerghatta Road
+No,No,,0,Bannerghatta Road,Dessert Parlor,Desserts,300,Desserts,Bannerghatta Road
+No,No,,0,Bannerghatta Road,Quick Bites,South Indian,200,Dine-out,Bannerghatta Road
+No,No,3.6/5,10,Bannerghatta Road,Food Court,"South Indian, Beverages",400,Dine-out,Bannerghatta Road
+No,No,,0,Bannerghatta Road,Quick Bites,South Indian,200,Dine-out,Bannerghatta Road
+No,No,NEW,0,Bannerghatta Road,Quick Bites,South Indian,250,Dine-out,Bannerghatta Road
+No,No,3.6/5,10,Bannerghatta Road,Food Court,"South Indian, Beverages",400,Dine-out,Bannerghatta Road
+No,No,NEW,0,Bannerghatta Road,Quick Bites,South Indian,250,Dine-out,Bannerghatta Road
+No,No,,0,JP Nagar,Quick Bites,South Indian,150,Dine-out,Bannerghatta Road
+No,No,,0,JP Nagar,Quick Bites,South Indian,150,Dine-out,Bannerghatta Road
+Yes,No,NEW,0,BTM,Quick Bites,North Indian,300,Dine-out,Bannerghatta Road
+Yes,No,NEW,0,BTM,Quick Bites,North Indian,300,Dine-out,Bannerghatta Road
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Dine-out,Bannerghatta Road
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Dine-out,Bannerghatta Road
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Delivery,Basavanagudi
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Delivery,Basavanagudi
+Yes,No,,0,JP Nagar,Delivery,North Indian,500,Delivery,Basavanagudi
+Yes,No,,0,JP Nagar,Delivery,North Indian,500,Delivery,Basavanagudi
+No,No,-,0,Basavanagudi,Quick Bites,South Indian,100,Dine-out,Basavanagudi
+No,No,-,0,Basavanagudi,Quick Bites,South Indian,100,Dine-out,Basavanagudi
+No,No,,0,City Market,Quick Bites,"North Indian, Biryani",200,Dine-out,Basavanagudi
+No,No,NEW,0,Banashankari,Quick Bites,South Indian,150,Dine-out,Basavanagudi
+No,No,NEW,0,Banashankari,Quick Bites,South Indian,150,Dine-out,Basavanagudi
+No,No,,0,City Market,Quick Bites,"North Indian, Biryani",200,Dine-out,Basavanagudi
+Yes,Yes,4.4/5,4099,Sarjapur Road,"Casual Dining, Bar","Seafood, Goan, North Indian, Continental, Asian","1,400",Buffet,Bellandur
+Yes,Yes,4.4/5,4099,Sarjapur Road,"Casual Dining, Bar","Seafood, Goan, North Indian, Continental, Asian","1,400",Buffet,Bellandur
+Yes,No,NEW,0,Bellandur,Quick Bites,North Indian,200,Delivery,Bellandur
+Yes,No,NEW,0,Bellandur,Quick Bites,North Indian,200,Delivery,Bellandur
+No,No,,0,Bellandur,Delivery,Biryani,400,Delivery,Bellandur
+No,No,,0,Bellandur,Delivery,Biryani,400,Delivery,Bellandur
+No,No,,0,Bellandur,Quick Bites,North Indian,200,Delivery,Bellandur
+No,No,,0,Bellandur,Quick Bites,North Indian,200,Delivery,Bellandur
+No,No,,0,Bellandur,"Takeaway, Delivery",North Indian,400,Delivery,Bellandur
+No,No,,0,Bellandur,Quick Bites,Biryani,400,Delivery,Bellandur
+No,No,,0,Bellandur,Quick Bites,Biryani,400,Delivery,Bellandur
+No,No,,0,Bellandur,"Takeaway, Delivery",North Indian,400,Delivery,Bellandur
+Yes,No,NEW,0,Bellandur,Quick Bites,North Indian,200,Dine-out,Bellandur
+Yes,No,NEW,0,Bellandur,Quick Bites,North Indian,200,Dine-out,Bellandur
+No,No,,0,Bellandur,Quick Bites,North Indian,200,Dine-out,Bellandur
+No,No,,0,Bellandur,Quick Bites,North Indian,200,Dine-out,Bellandur
+Yes,No,NEW,0,Bellandur,Quick Bites,North Indian,200,Dine-out,Bellandur
+No,Yes,4.4/5,1496,Sarjapur Road,Pub,"Continental, Italian, North Indian, Mexican","1,900",Drinks & nightlife,Bellandur
+Yes,Yes,4.4/5,3061,Marathahalli,"Casual Dining, Bar","North Indian, Japanese","1,500",Drinks & nightlife,Bellandur
+No,Yes,4.4/5,1496,Sarjapur Road,Pub,"Continental, Italian, North Indian, Mexican","1,900",Drinks & nightlife,Bellandur
+Yes,Yes,4.4/5,3061,Marathahalli,"Casual Dining, Bar","North Indian, Japanese","1,500",Drinks & nightlife,Bellandur
+Yes,Yes,4.4/5,3061,Marathahalli,"Casual Dining, Bar","North Indian, Japanese","1,500",Pubs and bars,Bellandur
+Yes,Yes,4.4/5,3061,Marathahalli,"Casual Dining, Bar","North Indian, Japanese","1,500",Pubs and bars,Bellandur
+No,Yes,4.4/5,2039,Lavelle Road,"Casual Dining, Bar","Healthy Food, Mediterranean, Desserts, Italian, Pizza, Salad, Kebab","1,200",Drinks & nightlife,Brigade Road
+No,Yes,4.4/5,2039,Lavelle Road,"Casual Dining, Bar","Healthy Food, Mediterranean, Desserts, Italian, Pizza, Salad, Kebab","1,200",Drinks & nightlife,Brigade Road
+Yes,No,NEW,0,Whitefield,Quick Bites,"North Indian, Chinese",300,Delivery,Brookefield
+No,No,,0,Marathahalli,Quick Bites,"South Indian, North Indian, Chinese",400,Delivery,Brookefield
+No,No,,0,Whitefield,Quick Bites,North Indian,400,Delivery,Brookefield
+No,No,,0,Whitefield,Quick Bites,North Indian,400,Delivery,Brookefield
+No,No,,0,Marathahalli,Quick Bites,"South Indian, North Indian, Chinese",400,Delivery,Brookefield
+Yes,No,NEW,0,Whitefield,Quick Bites,"North Indian, Chinese",300,Delivery,Brookefield
+Yes,No,NEW,0,Whitefield,"Takeaway, Delivery","Biryani, Mughlai",400,Delivery,Brookefield
+Yes,No,,0,Whitefield,Bakery,"Bakery, Desserts",500,Delivery,Brookefield
+Yes,No,,0,Whitefield,Bakery,"Bakery, Desserts",500,Delivery,Brookefield
+Yes,No,,0,Whitefield,Casual Dining,South Indian,400,Delivery,Brookefield
+Yes,No,,0,Whitefield,Casual Dining,South Indian,400,Delivery,Brookefield
+Yes,No,NEW,0,Whitefield,"Takeaway, Delivery","Biryani, Mughlai",400,Delivery,Brookefield
+No,No,,0,Marathahalli,Bakery,"Bakery, Desserts",300,Desserts,Brookefield
+No,No,,0,Marathahalli,Bakery,"Bakery, Desserts",300,Desserts,Brookefield
+No,No,NEW,0,Whitefield,Quick Bites,North Indian,200,Dine-out,Brookefield
+Yes,No,NEW,0,Whitefield,Quick Bites,"North Indian, Chinese",300,Dine-out,Brookefield
+No,No,,0,Whitefield,Quick Bites,North Indian,400,Dine-out,Brookefield
+No,No,,0,Whitefield,Quick Bites,North Indian,400,Dine-out,Brookefield
+No,No,NEW,0,Whitefield,Quick Bites,North Indian,200,Dine-out,Brookefield
+Yes,No,NEW,0,Whitefield,Quick Bites,"North Indian, Chinese",300,Dine-out,Brookefield
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Delivery,BTM
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Delivery,BTM
+Yes,No,NEW,0,BTM,Quick Bites,North Indian,200,Delivery,BTM
+No,No,3.5/5,11,BTM,Quick Bites,"Biryani, Fast Food",300,Delivery,BTM
+Yes,No,NEW,0,BTM,Quick Bites,North Indian,200,Delivery,BTM
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Delivery,BTM
+No,No,3.3/5,6,BTM,Quick Bites,"Biryani, Fast Food",300,Delivery,BTM
+Yes,No,3.9/5,201,BTM,Quick Bites,"North Indian, Street Food",300,Delivery,BTM
+Yes,No,3.7/5,127,Ejipura,"Takeaway, Delivery","Fast Food, Italian",300,Delivery,BTM
+Yes,Yes,4.1/5,600,Koramangala 6th Block,Casual Dining,"Italian, North Indian, Healthy Food, Desserts","1,100",Delivery,BTM
+Yes,No,NEW,0,JP Nagar,Delivery,"North Indian, South Indian, Chinese, Continental",500,Delivery,BTM
+Yes,No,3.9/5,213,Koramangala 6th Block,Quick Bites,"Burger, Beverages, Rolls",400,Delivery,BTM
+No,Yes,NEW,0,BTM,Quick Bites,"Fast Food, Chinese",200,Delivery,BTM
+Yes,No,3.3/5,36,Koramangala 1st Block,Delivery,North Indian,400,Delivery,BTM
+Yes,No,,0,BTM,Bakery,"Bakery, Desserts",300,Delivery,BTM
+Yes,No,3.9/5,201,BTM,Quick Bites,"North Indian, Street Food",300,Delivery,BTM
+Yes,No,3.7/5,127,Ejipura,"Takeaway, Delivery","Fast Food, Italian",300,Delivery,BTM
+Yes,Yes,4.1/5,600,Koramangala 6th Block,Casual Dining,"Italian, North Indian, Healthy Food, Desserts","1,100",Delivery,BTM
+Yes,No,NEW,0,JP Nagar,Delivery,"North Indian, South Indian, Chinese, Continental",500,Delivery,BTM
+Yes,No,3.9/5,213,Koramangala 6th Block,Quick Bites,"Burger, Beverages, Rolls",400,Delivery,BTM
+No,Yes,NEW,0,BTM,Quick Bites,"Fast Food, Chinese",200,Delivery,BTM
+Yes,No,3.3/5,36,Koramangala 1st Block,Delivery,North Indian,400,Delivery,BTM
+Yes,No,,0,BTM,Bakery,"Bakery, Desserts",300,Delivery,BTM
+No,No,,0,BTM,Quick Bites,"North Indian, Chinese",300,Delivery,BTM
+No,No,,0,BTM,Quick Bites,North Indian,300,Delivery,BTM
+No,No,3.5/5,11,BTM,Quick Bites,"Biryani, Fast Food",300,Delivery,BTM
+No,No,3.3/5,6,BTM,Quick Bites,"Biryani, Fast Food",300,Delivery,BTM
+No,No,,0,BTM,Quick Bites,"North Indian, Chinese",300,Delivery,BTM
+No,No,,0,BTM,Quick Bites,North Indian,300,Delivery,BTM
+Yes,No,,0,BTM,Quick Bites,Biryani,300,Delivery,BTM
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Delivery,BTM
+Yes,No,,0,BTM,Quick Bites,Biryani,300,Delivery,BTM
+No,No,,0,BTM,Dessert Parlor,Ice Cream,200,Desserts,BTM
+No,No,,0,BTM,Dessert Parlor,Ice Cream,200,Desserts,BTM
+No,No,,0,BTM,Quick Bites,North Indian,300,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,North Indian,400,Dine-out,BTM
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Dine-out,BTM
+Yes,No,NEW,0,BTM,Quick Bites,North Indian,200,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,Biryani,200,Dine-out,BTM
+Yes,No,,0,BTM,Quick Bites,Biryani,300,Dine-out,BTM
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,"North Indian, Chinese",300,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,"North Indian, Chinese",300,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,BTM
+Yes,No,NEW,0,BTM,Quick Bites,North Indian,200,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,North Indian,400,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,Arabian,300,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,Arabian,300,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,"Fast Food, Beverages",300,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,BTM
+Yes,No,,0,BTM,Quick Bites,Biryani,300,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,North Indian,300,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,"Fast Food, Beverages",300,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,BTM
+No,No,,0,BTM,Quick Bites,Biryani,200,Dine-out,BTM
+No,No,,0,Bommanahalli,Quick Bites,South Indian,200,Dine-out,BTM
+No,No,,0,Bommanahalli,Quick Bites,South Indian,200,Dine-out,BTM
+No,Yes,4.5/5,6349,Koramangala 7th Block,"Bar, Casual Dining","Mediterranean, Pizza, Continental, Seafood, Salad","1,600",Pubs and bars,BTM
+No,Yes,4.5/5,6349,Koramangala 7th Block,"Bar, Casual Dining","Mediterranean, Pizza, Continental, Seafood, Salad","1,600",Pubs and bars,BTM
+Yes,No,4.1/5,41,Church Street,Dessert Parlor,"Desserts, Ice Cream",150,Delivery,Church Street
+Yes,No,3.4/5,11,Koramangala 5th Block,Quick Bites,"Mangalorean, South Indian",300,Delivery,Church Street
+Yes,No,4.4/5,223,MG Road,Quick Bites,"Burger, Continental, Italian, Beverages",700,Delivery,Church Street
+Yes,No,3.2/5,23,Brigade Road,Casual Dining,"Seafood, Mangalorean, Chinese",700,Delivery,Church Street
+Yes,No,4.4/5,635,Residency Road,Dessert Parlor,"Ice Cream, Desserts",400,Delivery,Church Street
+Yes,No,3.7/5,80,Ulsoor,Quick Bites,Arabian,300,Delivery,Church Street
+Yes,Yes,4.4/5,1842,Lavelle Road,Casual Dining,"Italian, Salad","1,500",Delivery,Church Street
+Yes,No,,0,Brigade Road,"Food Court, Quick Bites","Pizza, Fast Food",400,Delivery,Church Street
+No,No,4.2/5,176,Frazer Town,Casual Dining,"Continental, Burger, Pizza, Steak",,Delivery,Church Street
+Yes,Yes,4.0/5,2112,Brigade Road,Club,"Chinese, Continental, North Indian, Burger, Pizza","2,000",Delivery,Church Street
+Yes,Yes,4.2/5,2924,Church Street,Casual Dining,"Italian, American, Steak, Continental, BBQ, Salad","1,000",Delivery,Church Street
+Yes,No,NEW,0,Shanti Nagar,"Takeaway, Delivery","North Indian, South Indian",250,Delivery,Church Street
+Yes,No,3.6/5,112,Richmond Road,Quick Bites,"Kebab, North Indian, Arabian, Chinese",500,Delivery,Church Street
+Yes,Yes,4.1/5,525,Indiranagar,Casual Dining,"Chinese, Vietnamese, Momos, Thai",800,Delivery,Church Street
+Yes,Yes,4.3/5,3485,Lavelle Road,"Pub, Microbrewery","Continental, BBQ, Finger Food","1,700",Delivery,Church Street
+Yes,No,4.2/5,382,Ulsoor,Cafe,"Pizza, Italian, Cafe, Burger, Finger Food, Fast Food, Sandwich",500,Delivery,Church Street
+Yes,No,NEW,0,Brigade Road,Quick Bites,"South Indian, Biryani",200,Delivery,Church Street
+Yes,Yes,4.3/5,394,Brigade Road,"Bar, Casual Dining","Finger Food, Continental, Pizza","1,600",Delivery,Church Street
+Yes,No,3.4/5,7,Ulsoor,Quick Bites,"Asian, Chinese, Momos, Fast Food, Indonesian, Korean",500,Delivery,Church Street
+Yes,No,,0,Frazer Town,Dessert Parlor,Desserts,250,Delivery,Church Street
+Yes,No,3.5/5,10,Frazer Town,"Takeaway, Delivery","Desserts, Beverages",300,Delivery,Church Street
+Yes,No,4.1/5,402,Cunningham Road,Casual Dining,"North Indian, Mughlai, Arabian, Chinese",750,Delivery,Church Street
+Yes,No,,0,Malleshwaram,Confectionery,Desserts,200,Delivery,Church Street
+Yes,No,4.3/5,1708,Church Street,Lounge,"Continental, Mediterranean, European","1,300",Delivery,Church Street
+Yes,No,3.4/5,8,Ulsoor,Quick Bites,Chinese,300,Delivery,Church Street
+Yes,No,,0,Frazer Town,Delivery,South Indian,500,Delivery,Church Street
+Yes,No,4.2/5,1207,Indiranagar,Cafe,"Cafe, Healthy Food, Salad, Beverages",600,Delivery,Church Street
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Delivery,Church Street
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Delivery,Church Street
+Yes,No,,0,Frazer Town,Delivery,North Indian,500,Delivery,Church Street
+Yes,No,,0,Brigade Road,Casual Dining,"Chinese, Tibetan",600,Delivery,Church Street
+No,No,,0,Frazer Town,Delivery,Chinese,600,Delivery,Church Street
+Yes,No,,0,Brigade Road,Food Court,"South Indian, Street Food",400,Delivery,Church Street
+Yes,No,3.3/5,8,Shanti Nagar,Quick Bites,South Indian,150,Delivery,Church Street
+Yes,No,3.3/5,6,Frazer Town,Quick Bites,"South Indian, Biryani",300,Delivery,Church Street
+Yes,No,3.6/5,32,Frazer Town,Quick Bites,"North Indian, Mughlai",700,Delivery,Church Street
+Yes,No,,0,Shivajinagar,"Cafe, Bakery","Cafe, Bakery",400,Delivery,Church Street
+Yes,No,3.4/5,7,Ulsoor,Quick Bites,"Asian, Chinese, Momos, Fast Food, Indonesian, Korean",500,Delivery,Church Street
+Yes,No,,0,Brigade Road,Casual Dining,"Chinese, Tibetan",600,Delivery,Church Street
+No,No,,0,Frazer Town,Delivery,Chinese,600,Delivery,Church Street
+Yes,No,,0,Brigade Road,Food Court,"South Indian, Street Food",400,Delivery,Church Street
+Yes,No,3.3/5,8,Shanti Nagar,Quick Bites,South Indian,150,Delivery,Church Street
+Yes,No,3.4/5,8,Ulsoor,Quick Bites,Chinese,300,Delivery,Church Street
+Yes,No,3.3/5,6,Frazer Town,Quick Bites,"South Indian, Biryani",300,Delivery,Church Street
+Yes,No,3.2/5,23,Brigade Road,Casual Dining,"Seafood, Mangalorean, Chinese",700,Delivery,Church Street
+Yes,No,3.6/5,32,Frazer Town,Quick Bites,"North Indian, Mughlai",700,Delivery,Church Street
+Yes,No,,0,Frazer Town,Dessert Parlor,Desserts,250,Delivery,Church Street
+Yes,No,,0,Shivajinagar,"Cafe, Bakery","Cafe, Bakery",400,Delivery,Church Street
+Yes,No,4.4/5,635,Residency Road,Dessert Parlor,"Ice Cream, Desserts",400,Delivery,Church Street
+Yes,No,,0,Frazer Town,Delivery,South Indian,500,Delivery,Church Street
+Yes,No,3.5/5,10,Frazer Town,"Takeaway, Delivery","Desserts, Beverages",300,Delivery,Church Street
+Yes,No,,0,Brigade Road,"Food Court, Quick Bites","Pizza, Fast Food",400,Delivery,Church Street
+Yes,No,,0,Malleshwaram,Confectionery,Desserts,200,Delivery,Church Street
+Yes,No,NEW,0,Brigade Road,Quick Bites,"South Indian, Biryani",200,Delivery,Church Street
+Yes,No,4.1/5,402,Cunningham Road,Casual Dining,"North Indian, Mughlai, Arabian, Chinese",750,Delivery,Church Street
+Yes,No,NEW,0,Shanti Nagar,"Takeaway, Delivery","North Indian, South Indian",250,Delivery,Church Street
+Yes,Yes,4.3/5,394,Brigade Road,"Bar, Casual Dining","Finger Food, Continental, Pizza","1,600",Delivery,Church Street
+Yes,No,4.4/5,223,MG Road,Quick Bites,"Burger, Continental, Italian, Beverages",700,Delivery,Church Street
+Yes,No,3.6/5,112,Richmond Road,Quick Bites,"Kebab, North Indian, Arabian, Chinese",500,Delivery,Church Street
+Yes,Yes,4.1/5,525,Indiranagar,Casual Dining,"Chinese, Vietnamese, Momos, Thai",800,Delivery,Church Street
+Yes,No,4.2/5,1207,Indiranagar,Cafe,"Cafe, Healthy Food, Salad, Beverages",600,Delivery,Church Street
+Yes,No,4.2/5,382,Ulsoor,Cafe,"Pizza, Italian, Cafe, Burger, Finger Food, Fast Food, Sandwich",500,Delivery,Church Street
+Yes,No,4.3/5,1708,Church Street,Lounge,"Continental, Mediterranean, European","1,300",Delivery,Church Street
+No,No,4.2/5,176,Frazer Town,Casual Dining,"Continental, Burger, Pizza, Steak",,Delivery,Church Street
+Yes,No,3.7/5,80,Ulsoor,Quick Bites,Arabian,300,Delivery,Church Street
+Yes,No,3.4/5,11,Koramangala 5th Block,Quick Bites,"Mangalorean, South Indian",300,Delivery,Church Street
+Yes,Yes,4.2/5,2924,Church Street,Casual Dining,"Italian, American, Steak, Continental, BBQ, Salad","1,000",Delivery,Church Street
+Yes,No,4.1/5,41,Church Street,Dessert Parlor,"Desserts, Ice Cream",150,Delivery,Church Street
+Yes,Yes,4.0/5,2112,Brigade Road,Club,"Chinese, Continental, North Indian, Burger, Pizza","2,000",Delivery,Church Street
+Yes,Yes,4.4/5,1842,Lavelle Road,Casual Dining,"Italian, Salad","1,500",Delivery,Church Street
+Yes,Yes,4.3/5,3485,Lavelle Road,"Pub, Microbrewery","Continental, BBQ, Finger Food","1,700",Delivery,Church Street
+Yes,No,,0,Frazer Town,Delivery,North Indian,500,Delivery,Church Street
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Dine-out,Church Street
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Dine-out,Church Street
+No,No,,0,Vasanth Nagar,Quick Bites,Biryani,200,Dine-out,Church Street
+No,No,,0,Vasanth Nagar,Quick Bites,Biryani,200,Dine-out,Church Street
+Yes,No,4.0/5,65,Electronic City,Beverage Shop,"Beverages, Sandwich, Fast Food",200,Delivery,Electronic City
+Yes,Yes,3.8/5,88,Electronic City,Casual Dining,"North Indian, Chinese",800,Delivery,Electronic City
+Yes,No,4.0/5,65,Electronic City,Beverage Shop,"Beverages, Sandwich, Fast Food",200,Delivery,Electronic City
+Yes,Yes,3.8/5,88,Electronic City,Casual Dining,"North Indian, Chinese",800,Delivery,Electronic City
+Yes,No,NEW,0,Electronic City,"Takeaway, Delivery",North Indian,300,Delivery,Electronic City
+Yes,No,NEW,0,Electronic City,"Takeaway, Delivery",North Indian,300,Delivery,Electronic City
+No,No,NEW,0,Electronic City,Quick Bites,"Fast Food, Beverages",200,Delivery,Electronic City
+No,No,NEW,0,Electronic City,Quick Bites,"Fast Food, Beverages",200,Delivery,Electronic City
+No,No,,0,Electronic City,Bakery,"Bakery, Desserts",200,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,North Indian,300,Delivery,Electronic City
+No,No,,0,Electronic City,Bakery,"Bakery, Desserts",200,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,North Indian,300,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,"South Indian, Biryani",300,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,300,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,300,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,"South Indian, Biryani",300,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,200,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,"North Indian, Chinese",350,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,Fast Food,100,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,"North Indian, Chinese",350,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,200,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,Fast Food,100,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,Biryani,300,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,Biryani,300,Delivery,Electronic City
+No,No,,0,Electronic City,Quick Bites,North Indian,300,Delivery,Electronic City
+No,No,,0,Electronic City,Bakery,"Bakery, Desserts",200,Desserts,Electronic City
+No,No,,0,Electronic City,Bakery,"Bakery, Desserts",200,Desserts,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,150,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,100,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,150,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,250,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,"South Indian, Biryani",300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,North Indian,300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,"South Indian, North Indian, Chinese",300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,"South Indian, North Indian, Chinese",300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,North Indian,300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,Fast Food,100,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,"South Indian, Biryani",300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,150,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,Biryani,300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,Biryani,200,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,North Indian,300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,"North Indian, Chinese",350,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,"South Indian, Biryani",300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,200,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,Biryani,200,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,"North Indian, Chinese",350,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,Fast Food,100,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,"North Indian, Chinese",350,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,North Indian,350,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,200,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,North Indian,350,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,100,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,Fast Food,100,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,200,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,250,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,North Indian,350,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,"South Indian, North Indian, Chinese",300,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,South Indian,150,Dine-out,Electronic City
+No,No,,0,Electronic City,Quick Bites,Biryani,300,Dine-out,Electronic City
+Yes,No,,0,Frazer Town,Delivery,North Indian,500,Delivery,Frazer Town
+Yes,No,,0,Frazer Town,Delivery,North Indian,500,Delivery,Frazer Town
+No,No,,0,Vasanth Nagar,Quick Bites,Biryani,200,Dine-out,Frazer Town
+No,No,,0,Vasanth Nagar,Quick Bites,Biryani,200,Dine-out,Frazer Town
+No,No,,0,HSR,Quick Bites,"North Indian, Chinese",400,Delivery,HSR
+No,No,,0,HSR,"Takeaway, Delivery",North Indian,400,Delivery,HSR
+No,No,,0,HSR,Delivery,North Indian,300,Delivery,HSR
+No,No,,0,HSR,Quick Bites,"North Indian, Chinese",400,Delivery,HSR
+No,No,,0,HSR,"Takeaway, Delivery",North Indian,400,Delivery,HSR
+No,No,,0,HSR,Quick Bites,"North Indian, Chinese",300,Delivery,HSR
+No,No,,0,HSR,Delivery,North Indian,300,Delivery,HSR
+No,No,,0,HSR,Delivery,North Indian,300,Delivery,HSR
+No,No,,0,HSR,Quick Bites,"North Indian, Chinese",300,Delivery,HSR
+No,No,,0,HSR,Delivery,North Indian,300,Delivery,HSR
+No,No,,0,HSR,Delivery,North Indian,300,Delivery,HSR
+Yes,No,3.9/5,450,HSR,Casual Dining,"North Indian, Chinese, Biryani",550,Delivery,HSR
+Yes,No,NEW,0,Bellandur,Quick Bites,North Indian,200,Delivery,HSR
+Yes,No,,0,HSR,Delivery,North Indian,500,Delivery,HSR
+Yes,No,,0,HSR,Delivery,North Indian,500,Delivery,HSR
+Yes,No,NEW,0,Bellandur,Quick Bites,North Indian,200,Delivery,HSR
+Yes,No,3.9/5,450,HSR,Casual Dining,"North Indian, Chinese, Biryani",550,Delivery,HSR
+No,No,,0,HSR,Dessert Parlor,Desserts,200,Desserts,HSR
+No,No,,0,HSR,Dessert Parlor,Desserts,200,Desserts,HSR
+No,No,,0,HSR,Quick Bites,"North Indian, Chinese",400,Dine-out,HSR
+No,No,,0,HSR,Quick Bites,"North Indian, Chinese",400,Dine-out,HSR
+No,No,4.2/5,583,Indiranagar,Cafe,"Cafe, Desserts",700,Cafes,Indiranagar
+No,No,4.2/5,583,Indiranagar,Cafe,"Cafe, Desserts",700,Cafes,Indiranagar
+Yes,No,3.3/5,110,Ulsoor,Quick Bites,"North Indian, Chinese",300,Delivery,Indiranagar
+Yes,No,3.3/5,110,Ulsoor,Quick Bites,"North Indian, Chinese",300,Delivery,Indiranagar
+No,No,,0,Indiranagar,Quick Bites,Biryani,150,Delivery,Indiranagar
+No,No,,0,Indiranagar,Quick Bites,Biryani,150,Delivery,Indiranagar
+No,No,,0,Indiranagar,Quick Bites,Biryani,150,Delivery,Indiranagar
+No,Yes,4.4/5,953,Indiranagar,"Fine Dining, Bar","Modern Indian, European, American","2,500",Dine-out,Indiranagar
+Yes,Yes,NEW,0,Indiranagar,Casual Dining,"Continental, Italian, North Indian, Chinese","1,000",Dine-out,Indiranagar
+No,Yes,NEW,0,Indiranagar,"Casual Dining, Bar","Continental, Asian, Modern Indian","1,700",Dine-out,Indiranagar
+No,Yes,NEW,0,Indiranagar,"Casual Dining, Bar","Continental, Asian, Modern Indian","1,700",Dine-out,Indiranagar
+No,Yes,4.4/5,953,Indiranagar,"Fine Dining, Bar","Modern Indian, European, American","2,500",Dine-out,Indiranagar
+Yes,Yes,NEW,0,Indiranagar,Casual Dining,"Continental, Italian, North Indian, Chinese","1,000",Dine-out,Indiranagar
+No,No,,0,Indiranagar,Quick Bites,Biryani,150,Dine-out,Indiranagar
+No,No,,0,Indiranagar,Quick Bites,"Biryani, Kebab",200,Dine-out,Indiranagar
+No,No,,0,Indiranagar,Quick Bites,"Biryani, Kebab",200,Dine-out,Indiranagar
+No,No,,0,Indiranagar,Quick Bites,South Indian,200,Dine-out,Indiranagar
+No,No,,0,Indiranagar,Quick Bites,Biryani,150,Dine-out,Indiranagar
+No,No,,0,Indiranagar,Quick Bites,South Indian,200,Dine-out,Indiranagar
+No,No,,0,Indiranagar,Quick Bites,Biryani,150,Dine-out,Indiranagar
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Delivery,Jayanagar
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Delivery,Jayanagar
+Yes,Yes,4.5/5,715,Koramangala 7th Block,Casual Dining,"Italian, Salad","1,500",Delivery,Jayanagar
+Yes,Yes,4.5/5,715,Koramangala 7th Block,Casual Dining,"Italian, Salad","1,500",Delivery,Jayanagar
+Yes,No,3.8/5,125,BTM,Quick Bites,"North Indian, Chinese",400,Delivery,Jayanagar
+Yes,No,3.8/5,125,BTM,Quick Bites,"North Indian, Chinese",400,Delivery,Jayanagar
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Delivery,Jayanagar
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Delivery,Jayanagar
+Yes,No,,0,BTM,Quick Bites,Biryani,300,Delivery,Jayanagar
+Yes,No,,0,JP Nagar,Delivery,North Indian,500,Delivery,Jayanagar
+Yes,No,,0,JP Nagar,Delivery,North Indian,500,Delivery,Jayanagar
+Yes,No,,0,BTM,Cafe,Cafe,500,Delivery,Jayanagar
+Yes,No,,0,BTM,Cafe,Cafe,500,Delivery,Jayanagar
+Yes,No,,0,BTM,Quick Bites,Biryani,300,Delivery,Jayanagar
+Yes,No,3.0/5,39,BTM,Quick Bites,"North Indian, Chinese",400,Delivery,Jayanagar
+Yes,No,3.4/5,8,BTM,Quick Bites,Fast Food,150,Delivery,Jayanagar
+Yes,No,,0,BTM,Quick Bites,Biryani,300,Delivery,Jayanagar
+Yes,No,3.0/5,39,BTM,Quick Bites,"North Indian, Chinese",400,Delivery,Jayanagar
+Yes,No,3.4/5,8,BTM,Quick Bites,Fast Food,150,Delivery,Jayanagar
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Desserts,Jayanagar
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Desserts,Jayanagar
+No,No,,0,JP Nagar,Quick Bites,South Indian,150,Delivery,JP Nagar
+No,No,,0,JP Nagar,Quick Bites,South Indian,150,Delivery,JP Nagar
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Delivery,JP Nagar
+Yes,No,NEW,0,BTM,Quick Bites,Chinese,300,Delivery,JP Nagar
+No,No,,0,JP Nagar,Quick Bites,South Indian,150,Dine-out,JP Nagar
+No,No,,0,JP Nagar,Quick Bites,South Indian,200,Dine-out,JP Nagar
+No,No,,0,JP Nagar,Quick Bites,South Indian,200,Dine-out,JP Nagar
+No,No,,0,JP Nagar,Quick Bites,South Indian,150,Dine-out,JP Nagar
+No,No,,0,Bannerghatta Road,Quick Bites,South Indian,200,Dine-out,JP Nagar
+No,No,3.6/5,10,Bannerghatta Road,Food Court,"South Indian, Beverages",400,Dine-out,JP Nagar
+No,No,,0,Bannerghatta Road,Quick Bites,South Indian,200,Dine-out,JP Nagar
+No,No,3.6/5,10,Bannerghatta Road,Food Court,"South Indian, Beverages",400,Dine-out,JP Nagar
+No,No,3.6/5,15,Kammanahalli,Quick Bites,Fast Food,300,Delivery,Kalyan Nagar
+No,No,,0,Banaswadi,Quick Bites,Fast Food,300,Delivery,Kalyan Nagar
+No,No,,0,Banaswadi,Quick Bites,Fast Food,300,Delivery,Kalyan Nagar
+Yes,No,3.2/5,4,Banaswadi,Quick Bites,"Chinese, North Indian, Biryani",300,Delivery,Kalyan Nagar
+Yes,No,3.2/5,4,Banaswadi,Quick Bites,"Chinese, North Indian, Biryani",300,Delivery,Kalyan Nagar
+Yes,No,2.9/5,54,Banaswadi,Quick Bites,"Fast Food, Maharashtrian, Rolls",250,Delivery,Kalyan Nagar
+No,No,3.6/5,15,Kammanahalli,Quick Bites,Fast Food,300,Delivery,Kalyan Nagar
+Yes,No,2.9/5,54,Banaswadi,Quick Bites,"Fast Food, Maharashtrian, Rolls",250,Delivery,Kalyan Nagar
+No,No,,0,Kammanahalli,Quick Bites,"Biryani, Kebab",200,Dine-out,Kalyan Nagar
+No,No,,0,Kammanahalli,Quick Bites,"Biryani, Kebab",200,Dine-out,Kalyan Nagar
+No,No,,0,Kammanahalli,Quick Bites,"Biryani, Kebab",200,Dine-out,Kalyan Nagar
+No,No,,0,Banaswadi,Quick Bites,Biryani,200,Dine-out,Kalyan Nagar
+No,No,,0,Banaswadi,Quick Bites,Fast Food,300,Dine-out,Kalyan Nagar
+No,No,,0,Banaswadi,Quick Bites,Biryani,200,Dine-out,Kalyan Nagar
+No,No,,0,Banaswadi,Quick Bites,Fast Food,300,Dine-out,Kalyan Nagar
+Yes,No,3.2/5,4,Banaswadi,Quick Bites,"Chinese, North Indian, Biryani",300,Dine-out,Kalyan Nagar
+Yes,No,3.2/5,4,Banaswadi,Quick Bites,"Chinese, North Indian, Biryani",300,Dine-out,Kalyan Nagar
+No,No,,0,Banaswadi,Quick Bites,Fast Food,300,Delivery,Kammanahalli
+No,No,,0,Banaswadi,Quick Bites,Fast Food,300,Delivery,Kammanahalli
+Yes,No,3.2/5,4,Banaswadi,Quick Bites,"Chinese, North Indian, Biryani",300,Delivery,Kammanahalli
+Yes,No,3.2/5,4,Banaswadi,Quick Bites,"Chinese, North Indian, Biryani",300,Delivery,Kammanahalli
+No,No,,0,Kammanahalli,Quick Bites,"Biryani, Kebab",200,Dine-out,Kammanahalli
+No,No,,0,Kammanahalli,Quick Bites,"Biryani, Kebab",200,Dine-out,Kammanahalli
+No,No,,0,Banaswadi,Quick Bites,Fast Food,300,Dine-out,Kammanahalli
+No,No,,0,Banaswadi,Quick Bites,Fast Food,150,Dine-out,Kammanahalli
+Yes,No,3.2 /5,4,Banaswadi,Quick Bites,"Chinese, North Indian, Biryani",300,Dine-out,Kammanahalli
+No,No,,0,Banaswadi,Quick Bites,Fast Food,150,Dine-out,Kammanahalli
+No,No,,0,Banaswadi,Quick Bites,Fast Food,300,Dine-out,Kammanahalli
+Yes,No,3.2 /5,4,Banaswadi,Quick Bites,"Chinese, North Indian, Biryani",300,Dine-out,Kammanahalli
+No,No,3.8 /5,74,Kengeri,Cafe,"Cafe, Continental",500,Dine-out,Kammanahalli
+No,No,3.8 /5,74,Kengeri,Cafe,"Cafe, Continental",500,Dine-out,Kammanahalli
+No,No,NEW,0,HSR,Quick Bites,"Biryani, Kebab",600,Delivery,Koramangala 4th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Delivery,Koramangala 4th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Delivery,Koramangala 4th Block
+No,No,NEW,0,HSR,Quick Bites,"Biryani, Kebab",600,Delivery,Koramangala 4th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,South Indian,200,Dine-out,Koramangala 4th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Dine-out,Koramangala 4th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,South Indian,200,Dine-out,Koramangala 4th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Dine-out,Koramangala 4th Block
+Yes,Yes,3.7 /5,21,Hosur Road,Casual Dining,"Andhra, North Indian, Chinese, Seafood",700,Dine-out,Koramangala 4th Block
+Yes,Yes,3.7 /5,21,Hosur Road,Casual Dining,"Andhra, North Indian, Chinese, Seafood",700,Dine-out,Koramangala 4th Block
+No,No,,0,BTM,Quick Bites,"Fast Food, Beverages",300,Dine-out,Koramangala 4th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 4th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 4th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 4th Block
+No,No,,0,BTM,Quick Bites,"Fast Food, Beverages",300,Dine-out,Koramangala 4th Block
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Delivery,Koramangala 5th Block
+Yes,No,3.6 /5,15,BTM,Quick Bites,"North Indian, Chinese",300,Delivery,Koramangala 5th Block
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Delivery,Koramangala 5th Block
+Yes,No,,0,BTM,Quick Bites,North Indian,200,Delivery,Koramangala 5th Block
+Yes,No,,0,BTM,Quick Bites,Biryani,300,Delivery,Koramangala 5th Block
+Yes,No,3.6 /5,15,BTM,Quick Bites,"North Indian, Chinese",300,Delivery,Koramangala 5th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Delivery,Koramangala 5th Block
+Yes,No,,0,BTM,Quick Bites,North Indian,200,Delivery,Koramangala 5th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Delivery,Koramangala 5th Block
+Yes,No,,0,BTM,Quick Bites,Biryani,300,Delivery,Koramangala 5th Block
+No,No,4.5 /5,733,Koramangala 5th Block,Casual Dining,Mexican,"1,200",Dine-out,Koramangala 5th Block
+No,No,4.5 /5,733,Koramangala 5th Block,Casual Dining,Mexican,"1,200",Dine-out,Koramangala 5th Block
+Yes,Yes,3.7 /5,21,Hosur Road,Casual Dining,"Andhra, North Indian, Chinese, Seafood",700,Dine-out,Koramangala 5th Block
+Yes,Yes,4.0 /5,1515,Koramangala 3rd Block,Cafe,"Cafe, Continental",900,Dine-out,Koramangala 5th Block
+Yes,Yes,4.0 /5,1515,Koramangala 3rd Block,Cafe,"Cafe, Continental",900,Dine-out,Koramangala 5th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,South Indian,200,Dine-out,Koramangala 5th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Dine-out,Koramangala 5th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,South Indian,200,Dine-out,Koramangala 5th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Dine-out,Koramangala 5th Block
+Yes,Yes,3.7 /5,21,Hosur Road,Casual Dining,"Andhra, North Indian, Chinese, Seafood",700,Dine-out,Koramangala 5th Block
+No,No,,0,BTM,Quick Bites,"North Indian, Chinese",300,Dine-out,Koramangala 5th Block
+No,No,,0,BTM,Quick Bites,"Fast Food, Beverages",300,Dine-out,Koramangala 5th Block
+No,No,,0,BTM,Quick Bites,"Biryani, Kebab",300,Dine-out,Koramangala 5th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 5th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 5th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 5th Block
+No,No,,0,BTM,Quick Bites,"Fast Food, Beverages",300,Dine-out,Koramangala 5th Block
+No,No,,0,BTM,Quick Bites,"Biryani, Kebab",300,Dine-out,Koramangala 5th Block
+No,No,,0,BTM,Quick Bites,"North Indian, Chinese",300,Dine-out,Koramangala 5th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Delivery,Koramangala 6th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Delivery,Koramangala 6th Block
+Yes,Yes,3.7 /5,21,Hosur Road,Casual Dining,"Andhra, North Indian, Chinese, Seafood",700,Dine-out,Koramangala 6th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,South Indian,200,Dine-out,Koramangala 6th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Dine-out,Koramangala 6th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,South Indian,200,Dine-out,Koramangala 6th Block
+No,No,,0,Koramangala 1st Block,Quick Bites,North Indian,300,Dine-out,Koramangala 6th Block
+Yes,Yes,3.7 /5,21,Hosur Road,Casual Dining,"Andhra, North Indian, Chinese, Seafood",700,Dine-out,Koramangala 6th Block
+No,No,,0,BTM,Quick Bites,"North Indian, Chinese",300,Dine-out,Koramangala 6th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 6th Block
+No,No,,0,BTM,Quick Bites,"Fast Food, Beverages",300,Dine-out,Koramangala 6th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 6th Block
+No,No,,0,BTM,Quick Bites,"North Indian, Chinese",300,Dine-out,Koramangala 6th Block
+No,No,,0,BTM,Quick Bites,"Fast Food, Beverages",300,Dine-out,Koramangala 6th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 6th Block
+Yes,No,3.6 /5,16,BTM,Quick Bites,"North Indian, Chinese",300,Delivery,Koramangala 7th Block
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Delivery,Koramangala 7th Block
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Delivery,Koramangala 7th Block
+Yes,No,,0,BTM,Quick Bites,North Indian,200,Delivery,Koramangala 7th Block
+Yes,No,,0,BTM,Quick Bites,Biryani,300,Delivery,Koramangala 7th Block
+Yes,No,,0,BTM,Quick Bites,Biryani,300,Delivery,Koramangala 7th Block
+Yes,No,3.6 /5,16,BTM,Quick Bites,"North Indian, Chinese",300,Delivery,Koramangala 7th Block
+Yes,No,,0,BTM,Quick Bites,North Indian,200,Delivery,Koramangala 7th Block
+No,No,,0,Koramangala 4th Block,Delivery,North Indian,300,Delivery,Koramangala 7th Block
+No,No,,0,Koramangala 4th Block,Delivery,North Indian,300,Delivery,Koramangala 7th Block
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Desserts,Koramangala 7th Block
+Yes,No,,0,Jayanagar,Bakery,"Bakery, Desserts",350,Desserts,Koramangala 7th Block
+Yes,Yes,3.7 /5,21,Hosur Road,Casual Dining,"Andhra, North Indian, Chinese, Seafood",700,Dine-out,Koramangala 7th Block
+Yes,Yes,3.7 /5,21,Hosur Road,Casual Dining,"Andhra, North Indian, Chinese, Seafood",700,Dine-out,Koramangala 7th Block
+Yes,No,,0,BTM,Quick Bites,North Indian,200,Dine-out,Koramangala 7th Block
+No,No,,0,BTM,Quick Bites,"North Indian, Chinese",300,Dine-out,Koramangala 7th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 7th Block
+Yes,No,,0,BTM,Quick Bites,North Indian,200,Dine-out,Koramangala 7th Block
+No,No,,0,BTM,Quick Bites,"Biryani, Kebab",300,Dine-out,Koramangala 7th Block
+No,No,,0,BTM,Quick Bites,Arabian,300,Dine-out,Koramangala 7th Block
+No,No,,0,BTM,Quick Bites,Arabian,300,Dine-out,Koramangala 7th Block
+No,No,,0,BTM,Quick Bites,"Fast Food, Beverages",300,Dine-out,Koramangala 7th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 7th Block
+No,No,,0,BTM,Quick Bites,"Biryani, Kebab",300,Dine-out,Koramangala 7th Block
+No,No,,0,BTM,Quick Bites,"North Indian, Chinese",300,Dine-out,Koramangala 7th Block
+No,No,,0,BTM,Quick Bites,"Fast Food, Beverages",300,Dine-out,Koramangala 7th Block
+No,No,,0,BTM,Quick Bites,South Indian,200,Dine-out,Koramangala 7th Block
+Yes,No,3.9 /5,158,Infantry Road,Casual Dining,"Chinese, Thai, Indonesian","1,300",Buffet,Lavelle Road
+Yes,No,3.9 /5,158,Infantry Road,Casual Dining,"Chinese, Thai, Indonesian","1,300",Buffet,Lavelle Road
+Yes,No,NEW,0,Banashankari,Quick Bites,"Sandwich, Beverages",200,Delivery,Lavelle Road
+Yes,No,NEW,0,Banashankari,Quick Bites,"Sandwich, Beverages",200,Delivery,Lavelle Road
+No,No,,0,Majestic,Quick Bites,South Indian,150,Delivery,Lavelle Road
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Delivery,Lavelle Road
+No,No,NEW,0,Majestic,Quick Bites,South Indian,200,Delivery,Lavelle Road
+No,No,NEW,0,Majestic,Quick Bites,South Indian,200,Delivery,Lavelle Road
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Delivery,Lavelle Road
+No,No,,0,Majestic,Quick Bites,South Indian,150,Delivery,Lavelle Road
+No,No,,0,Majestic,Quick Bites,South Indian,150,Delivery,Lavelle Road
+Yes,Yes,4.3 /5,772,Lavelle Road,Casual Dining,"Rajasthani, North Indian","1,400",Dine-out,Lavelle Road
+Yes,Yes,4.3 /5,772,Lavelle Road,Casual Dining,"Rajasthani, North Indian","1,400",Dine-out,Lavelle Road
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Dine-out,Lavelle Road
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Dine-out,Lavelle Road
+No,No,NEW,0,Majestic,Quick Bites,South Indian,200,Dine-out,Lavelle Road
+No,No,NEW,0,Majestic,Quick Bites,South Indian,200,Dine-out,Lavelle Road
+No,No,,0,Majestic,Quick Bites,South Indian,150,Dine-out,Lavelle Road
+No,No,,0,Vasanth Nagar,Quick Bites,Biryani,,Dine-out,Lavelle Road
+No,No,,0,Majestic,Quick Bites,South Indian,150,Dine-out,Lavelle Road
+No,No,,0,Majestic,Quick Bites,South Indian,150,Dine-out,Lavelle Road
+No,No,,0,City Market,Quick Bites,South Indian,150,Dine-out,Lavelle Road
+No,No,,0,Vasanth Nagar,Quick Bites,Biryani,,Dine-out,Lavelle Road
+No,No,,0,City Market,Quick Bites,South Indian,150,Dine-out,Lavelle Road
+No,No,,0,City Market,Quick Bites,South Indian,150,Dine-out,Lavelle Road
+No,No,,0,City Market,Quick Bites,South Indian,150,Dine-out,Lavelle Road
+No,No,,0,Majestic,Quick Bites,South Indian,150,Dine-out,Lavelle Road
+Yes,No,,0,Malleshwaram,Confectionery,Desserts,200,Delivery,Malleshwaram
+Yes,No,,0,Sanjay Nagar,Delivery,North Indian,500,Delivery,Malleshwaram
+Yes,No,,0,Malleshwaram,Confectionery,Desserts,200,Delivery,Malleshwaram
+Yes,No,,0,Sanjay Nagar,Delivery,North Indian,500,Delivery,Malleshwaram
+No,No,,0,Malleshwaram,Quick Bites,North Indian,200,Dine-out,Malleshwaram
+No,No,,0,Malleshwaram,Quick Bites,North Indian,200,Dine-out,Malleshwaram
+No,No,,0,Rajajinagar,Quick Bites,South Indian,250,Dine-out,Malleshwaram
+No,No,,0,Rajajinagar,Quick Bites,South Indian,250,Dine-out,Malleshwaram
+No,No,,0,Rajajinagar,Quick Bites,South Indian,250,Dine-out,Malleshwaram
+No,No,,0,Marathahalli,Quick Bites,"South Indian, North Indian, Chinese",400,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,"North Indian, Chinese",400,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,300,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,300,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,300,Delivery,Marathahalli
+No,No,,0,Marathahalli,Delivery,North Indian,300,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,300,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,400,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,"South Indian, North Indian, Chinese",400,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,400,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,Fast Food,200,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,300,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,Fast Food,200,Delivery,Marathahalli
+No,No,,0,Marathahalli,Delivery,North Indian,300,Delivery,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,"North Indian, Chinese",400,Delivery,Marathahalli
+Yes,No,,0,Marathahalli,Delivery,North Indian,500,Delivery,Marathahalli
+Yes,No,,0,Marathahalli,Delivery,"North Indian, Chinese",600,Delivery,Marathahalli
+Yes,No,,0,Marathahalli,Delivery,"North Indian, Chinese",600,Delivery,Marathahalli
+Yes,No,,0,Marathahalli,Delivery,North Indian,500,Delivery,Marathahalli
+Yes,No,3.7 /5,19,CV Raman Nagar,"Takeaway, Delivery","Andhra, Biryani, North Indian, Beverages",300,Delivery,Marathahalli
+Yes,No,3.7 /5,19,CV Raman Nagar,"Takeaway, Delivery","Andhra, Biryani, North Indian, Beverages",300,Delivery,Marathahalli
+Yes,Yes,4.1 /5,99,Marathahalli,"Casual Dining, Bar","Continental, Chinese, North Indian","1,100",Dine-out,Marathahalli
+Yes,Yes,4.1 /5,99,Marathahalli,"Casual Dining, Bar","Continental, Chinese, North Indian","1,100",Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,"North Indian, Chinese",400,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,Street Food,150,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,South Indian,200,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,South Indian,150,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,"North Indian, Chinese",400,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,300,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,300,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,300,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,South Indian,200,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,South Indian,200,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,South Indian,250,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,300,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,South Indian,200,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,400,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,South Indian,250,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,South Indian,150,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,South Indian,150,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,400,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,Street Food,150,Dine-out,Marathahalli
+No,No,,0,Marathahalli,Quick Bites,North Indian,300,Dine-out,Marathahalli
+Yes,No,3.2 /5,88,Ulsoor,Quick Bites,"North Indian, Chinese, South Indian",350,Delivery,MG Road
+Yes,Yes,4.2 /5,570,Shanti Nagar,Casual Dining,"Chinese, North Indian, Biryani, Kebab","1,200",Delivery,MG Road
+Yes,No,3.2 /5,88,Ulsoor,Quick Bites,"North Indian, Chinese, South Indian",350,Delivery,MG Road
+Yes,Yes,4.2 /5,570,Shanti Nagar,Casual Dining,"Chinese, North Indian, Biryani, Kebab","1,200",Delivery,MG Road
+Yes,No,,0,Frazer Town,Delivery,North Indian,500,Delivery,MG Road
+Yes,No,,0,Frazer Town,Delivery,North Indian,500,Delivery,MG Road
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Delivery,MG Road
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Delivery,MG Road
+No,No,4.1 /5,1545,Lavelle Road,Pub,"Continental, Steak","1,200",Dine-out,MG Road
+No,No,4.1 /5,1545,Lavelle Road,Pub,"Continental, Steak","1,200",Dine-out,MG Road
+No,Yes,3.9 /5,312,Residency Road,Fine Dining,"North Indian, Italian, European, Continental","2,000",Dine-out,MG Road
+No,Yes,3.9 /5,312,Residency Road,Fine Dining,"North Indian, Italian, European, Continental","2,000",Dine-out,MG Road
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Dine-out,MG Road
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Dine-out,MG Road
+No,Yes,4.3 /5,485,Residency Road,"Microbrewery, Casual Dining",Modern Indian,"2,000",Drinks & nightlife,MG Road
+No,Yes,4.3 /5,485,Residency Road,"Microbrewery, Casual Dining",Modern Indian,"2,000",Drinks & nightlife,MG Road
+No,No,,0,New BEL Road,Quick Bites,South Indian,150,Dine-out,New BEL Road
+No,No,,0,New BEL Road,Quick Bites,Fast Food,200,Dine-out,New BEL Road
+No,No,,0,New BEL Road,Quick Bites,Fast Food,200,Dine-out,New BEL Road
+No,No,,0,New BEL Road,Quick Bites,South Indian,150,Dine-out,New BEL Road
+No,No,,0,Old Airport Road,Quick Bites,South Indian,300,Dine-out,Old Airport Road
+No,No,,0,Old Airport Road,Quick Bites,South Indian,300,Dine-out,Old Airport Road
+No,Yes,4.6 /5,3173,Indiranagar,"Bar, Casual Dining","Chinese, Continental, North Indian, Mexican","1,400",Drinks & nightlife,Old Airport Road
+No,Yes,4.3 /5,962,Indiranagar,"Bar, Casual Dining","European, Continental, Asian, Finger Food","1,300",Drinks & nightlife,Old Airport Road
+No,Yes,4.6 /5,3173,Indiranagar,"Bar, Casual Dining","Chinese, Continental, North Indian, Mexican","1,400",Drinks & nightlife,Old Airport Road
+No,Yes,4.3 /5,962,Indiranagar,"Bar, Casual Dining","European, Continental, Asian, Finger Food","1,300",Drinks & nightlife,Old Airport Road
+No,No,4.3 /5,700,Indiranagar,"Bar, Casual Dining","Continental, Burger, Italian, Pizza, North Indian, Chinese, Finger Food",,Pubs and bars,Old Airport Road
+No,No,4.3 /5,700,Indiranagar,"Bar, Casual Dining","Continental, Burger, Italian, Pizza, North Indian, Chinese, Finger Food",,Pubs and bars,Old Airport Road
+Yes,No,,0,Malleshwaram,Confectionery,Desserts,200,Delivery,Rajajinagar
+Yes,No,,0,Malleshwaram,Confectionery,Desserts,200,Delivery,Rajajinagar
+No,No,,0,,,,,Delivery,Rajajinagar
+No,No,,0,,,,,Delivery,Rajajinagar
+No,No,,0,Rajajinagar,Dessert Parlor,Desserts,300,Desserts,Rajajinagar
+No,No,,0,Rajajinagar,Dessert Parlor,Desserts,300,Desserts,Rajajinagar
+No,No,,0,,,,,Dine-out,Rajajinagar
+Yes,No,3.0 /5,89,Rajajinagar,Quick Bites,"Fast Food, Street Food",200,Dine-out,Rajajinagar
+Yes,No,3.0 /5,89,Rajajinagar,Quick Bites,"Fast Food, Street Food",200,Dine-out,Rajajinagar
+No,No,,0,Rajajinagar,Quick Bites,South Indian,300,Dine-out,Rajajinagar
+No,No,,0,Rajajinagar,Quick Bites,South Indian,300,Dine-out,Rajajinagar
+No,No,,0,Rajajinagar,Quick Bites,South Indian,150,Dine-out,Rajajinagar
+No,No,,0,Rajajinagar,Quick Bites,"South Indian, Biryani",300,Dine-out,Rajajinagar
+No,No,,0,Rajajinagar,Quick Bites,South Indian,150,Dine-out,Rajajinagar
+No,No,,0,Rajajinagar,Quick Bites,South Indian,250,Dine-out,Rajajinagar
+No,No,,0,Rajajinagar,Quick Bites,South Indian,250,Dine-out,Rajajinagar
+No,No,,0,Rajajinagar,Quick Bites,South Indian,250,Dine-out,Rajajinagar
+No,No,,0,Rajajinagar,Quick Bites,"South Indian, Biryani",300,Dine-out,Rajajinagar
+No,No,,0,Basaveshwara Nagar,Quick Bites,Biryani,250,Dine-out,Rajajinagar
+No,No,,0,Basaveshwara Nagar,Quick Bites,Biryani,250,Dine-out,Rajajinagar
+No,No,,0,Basaveshwara Nagar,Quick Bites,Biryani,250,Dine-out,Rajajinagar
+No,No,,0,,,,,Dine-out,Rajajinagar
+No,No,,0,Magadi Road,Quick Bites,South Indian,250,Dine-out,Rajajinagar
+No,No,,0,Magadi Road,Quick Bites,South Indian,250,Dine-out,Rajajinagar
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Delivery,Residency Road
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Delivery,Residency Road
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Dine-out,Residency Road
+No,No,,0,Richmond Road,Quick Bites,"North Indian, Fast Food",300,Dine-out,Residency Road
+No,No,,0,City Market,Quick Bites,South Indian,150,Dine-out,Residency Road
+No,No,,0,City Market,Quick Bites,South Indian,150,Dine-out,Residency Road
+No,Yes,4.4 /5,409,Brigade Road,"Microbrewery, Casual Dining","Asian, Continental, European, North Indian","1,500",Drinks & nightlife,Residency Road
+No,Yes,4.4 /5,409,Brigade Road,"Microbrewery, Casual Dining","Asian, Continental, European, North Indian","1,500",Drinks & nightlife,Residency Road
+Yes,No,3.5 /5,6,Bellandur,Beverage Shop,"Juices, Fast Food",200,Delivery,Sarjapur Road
+Yes,No,3.5 /5,6,Bellandur,Beverage Shop,"Juices, Fast Food",200,Delivery,Sarjapur Road
+No,No,,0,Bellandur,Quick Bites,North Indian,200,Delivery,Sarjapur Road
+No,No,,0,Bellandur,Quick Bites,Biryani,400,Delivery,Sarjapur Road
+No,No,,0,Bellandur,Quick Bites,Biryani,400,Delivery,Sarjapur Road
+Yes,No,,0,Sarjapur Road,Delivery,North Indian,500,Delivery,Sarjapur Road
+No,No,,0,Bellandur,Quick Bites,North Indian,200,Delivery,Sarjapur Road
+Yes,No,,0,Sarjapur Road,Delivery,North Indian,500,Delivery,Sarjapur Road
+No,No,,0,Bellandur,Quick Bites,North Indian,200,Dine-out,Sarjapur Road
+No,No,,0,Bellandur,Quick Bites,North Indian,200,Dine-out,Sarjapur Road
+No,No,NEW,0,Whitefield,Delivery,North Indian,500,Delivery,Whitefield
+Yes,No,,0,Whitefield,Confectionery,Desserts,200,Delivery,Whitefield
+Yes,No,,0,Whitefield,Confectionery,Desserts,200,Delivery,Whitefield
+Yes,No,,0,Whitefield,Confectionery,Desserts,200,Delivery,Whitefield
+Yes,No,,0,Whitefield,Quick Bites,"Andhra, North Indian, Biryani",250,Delivery,Whitefield
+Yes,No,,0,Whitefield,Quick Bites,"Andhra, North Indian, Biryani",250,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, Chinese",400,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,"South Indian, Chinese, North Indian",200,Delivery,Whitefield
+No,No,,0,Whitefield,Bakery,"Bakery, Desserts",500,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, Chinese",300,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, South Indian, Chinese",400,Delivery,Whitefield
+No,No,,0,Whitefield,Bakery,"Bakery, Desserts",500,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, Chinese",400,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, Chinese",350,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, Chinese",350,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,"South Indian, Chinese, North Indian",200,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, Chinese",300,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,North Indian,400,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, South Indian, Chinese",400,Delivery,Whitefield
+No,No,NEW,0,Whitefield,Delivery,North Indian,500,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,North Indian,400,Delivery,Whitefield
+No,No,,0,Whitefield,Quick Bites,North Indian,400,Delivery,Whitefield
+No,No,,0,Whitefield,Bakery,"Bakery, Desserts",500,Delivery,Whitefield
+No,No,,0,Whitefield,Bakery,"Bakery, Desserts",500,Delivery,Whitefield
+Yes,No,NEW,0,Whitefield,"Takeaway, Delivery","Biryani, Mughlai",400,Delivery,Whitefield
+Yes,No,NEW,0,Whitefield,"Takeaway, Delivery","Biryani, Mughlai",400,Delivery,Whitefield
+No,No,,0,Whitefield,Bakery,"Bakery, Desserts",500,Desserts,Whitefield
+No,No,,0,Whitefield,Bakery,"Bakery, Desserts",500,Desserts,Whitefield
+No,No,,0,Whitefield,Bakery,"Bakery, Desserts",500,Desserts,Whitefield
+No,No,,0,Whitefield,Bakery,"Bakery, Desserts",500,Desserts,Whitefield
+No,No,,0,Whitefield,Quick Bites,North Indian,200,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,North Indian,400,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,"South Indian, Chinese, North Indian",200,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,"South Indian, North Indian, Chinese",400,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,South Indian,200,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,South Indian,200,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,South Indian,200,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, Chinese",300,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,Street Food,100,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,South Indian,150,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,North Indian,200,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,"South Indian, North Indian, Chinese",400,Dine-out,Whitefield
+Yes,No,,0,Whitefield,Quick Bites,"Andhra, North Indian, Biryani",250,Dine-out,Whitefield
+Yes,No,,0,Whitefield,Quick Bites,"Andhra, North Indian, Biryani",250,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,South Indian,200,Dine-out,Whitefield
+No,No,3.2 /5,4,Whitefield,Quick Bites,Biryani,150,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, South Indian",500,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,North Indian,400,Dine-out,Whitefield
+No,No,3.2 /5,4,Whitefield,Quick Bites,Biryani,150,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, Chinese",350,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, Chinese",350,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,"South Indian, Chinese, North Indian",200,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,South Indian,150,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,South Indian,150,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,South Indian,200,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,Street Food,100,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, Chinese",300,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,North Indian,400,Dine-out,Whitefield
+No,No,,0,Whitefield,Quick Bites,"North Indian, South Indian",500,Dine-out,Whitefield
+No,No,,0,"ITPL Main Road, Whitefield",Quick Bites,North Indian,300,Dine-out,Whitefield
+No,No,,0,"ITPL Main Road, Whitefield",Quick Bites,North Indian,300,Dine-out,Whitefield
