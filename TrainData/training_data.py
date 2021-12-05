@@ -12,7 +12,6 @@ logging.basicConfig(
 def get_data():
     
     try:
-        print("entered")
         logging.info("Entered the training_data module")
         train_data_path = os.path.join("EDA", "zomato.csv")
         train_df = pd.read_csv(train_data_path)
