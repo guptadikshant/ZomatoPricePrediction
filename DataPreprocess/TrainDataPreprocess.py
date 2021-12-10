@@ -1,5 +1,6 @@
 import os
 import numpy as np
+import pandas as pd
 from sklearn.preprocessing import LabelEncoder, OrdinalEncoder
 from sklearn.impute import KNNImputer
 import logging
@@ -118,13 +119,9 @@ class Preprocessor:
             x_valid = imputer.transform(x_valid)
             y_train = imputer.fit_transform(np.array(y_train).reshape(-1, 1))
             y_valid = imputer.transform(np.array(y_valid).reshape(-1, 1))
+            
             logging.info("Imputing of missing values is done. Exiting the function.")
             return x_train,x_valid,y_train,y_valid
 
         except Exception as e:
-            logging.info(f"There is an error in the imputing_features function.Please check below. \n {str(e)}")
-
-    
-
-
-        
+            logging.info(f"There is an error in the imputing_features function.Please check below. \n {str(e)}")        
