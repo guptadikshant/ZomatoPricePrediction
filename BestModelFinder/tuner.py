@@ -1,7 +1,7 @@
 import os
 import pickle
 import numpy as np
-from sklearn.linear_model import LinearRegression,Lasso,LassoCV,Ridge,RidgeCV,ElasticNet,ElasticNetCV
+from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor, ExtraTreesRegressor, AdaBoostRegressor, GradientBoostingRegressor
 from xgboost import XGBRegressor
@@ -461,26 +461,17 @@ class ModelTuner:
         :return:BestModel
         :rtype:Model.pkl
         """
+        try:
+            logging.info("Entering the function of save best model")
 
-        logging.info("Entering the function of save best model")
+            modelname = self.best_model
+            model_dir = "BestModel"
+            os.makedirs(model_dir, exist_ok=True)
+            filename = "Model.pkl"
+            model_path = os.path.join(model_dir, filename)
+            pickle.dump(modelname, open(model_path, "wb"))
 
-        modelname = self.best_model
-        model_dir = "BestModel"
-        os.makedirs(model_dir, exist_ok=True)
-        filename = "Model.pkl"
-        model_path = os.path.join(model_dir, filename)
-        pickle.dump(modelname, open(model_path, "wb"))
+            logging.info(f"The best model is saved at {model_path}. Exiting the module")   
 
-        logging.info(f"The best model is saved at {model_path}. Exiting the module")
-
-
-    
-        
-
-
-
-      
-
-
-    
-    
+        except Exception as e:
+             logging.info(f"There is some error in the save_best_model function. The error is : {str(e)} ")

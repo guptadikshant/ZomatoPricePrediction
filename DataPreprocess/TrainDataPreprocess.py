@@ -11,6 +11,8 @@ logging.basicConfig(
     format="[%(asctime)s: %(levelname)s: %(module)s]: %(message)s",
     filemode="a"
 )
+import pickle 
+
 
 class Preprocessor:
 
@@ -101,6 +103,15 @@ class Preprocessor:
             x_train[["online_order","book_table","Type of Resturant"]] = ord_enc.fit_transform(x_train[["online_order","book_table","Type of Resturant"]])
             x_valid[["online_order","book_table","Type of Resturant"]] = ord_enc.transform(x_valid[["online_order","book_table","Type of Resturant"]])
 
+            os.makedirs("TrainedEncoders",exist_ok=True)
+            filename1 = "LabelEncoder.pkl"
+            filename2 = "OrdinalEncoder.pkl"
+
+            saved_path1 = os.path.join("TrainedEncoders",filename1)
+            saved_path2 = os.path.join("TrainedEncoders",filename2)
+
+            pickle.dump(label_enc,open(saved_path1,"wb"))
+            pickle.dump(ord_enc,open(saved_path2,"wb"))
 
             logging.info("Encoding of the features is done. Exiting the function.")
 
