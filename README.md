@@ -32,3 +32,10 @@ python app.py
 
 ## Dataset Link is below
 https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+
+## Main Prediction Page
+![main prediction page](https://user-images.githubusercontent.com/51189309/149668882-b0a5721f-3b61-48d4-9f87-e9a6418c1134.png)
+
+## Predicted Ouput
+![predicted output](https://user-images.githubusercontent.com/51189309/149668907-3784c8e2-640b-4eb6-b5c7-74fab66addcf.png)
+
