@@ -37,5 +37,4 @@ https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 ![main prediction page](https://user-images.githubusercontent.com/51189309/149668882-b0a5721f-3b61-48d4-9f87-e9a6418c1134.png)
 
 ## Predicted Output
-![predicted output](https://user-images.githubusercontent.com/51189309/149668907-3784c8e2-640b-4eb6-b5c7-74fab66addcf.png)
-
+![Predicted Output Page](https://user-images.githubusercontent.com/51189309/149737626-8cbff557-df53-4652-b68b-c146bd15257a.png)
