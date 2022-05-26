@@ -1,7 +1,10 @@
 ## Zomato Price Prediction
-A End to End machine learning project which analyses different
-inputs a customer enters to search good and budget resturant and 
-predicts the average price for 2 people
+The basic problem we faced when we visit somewhere is the good quality of food in affordable range
+Searching a good place which offers quality food in good price a range is a hectic task especially forsome one new who moved to a new city or town
+The above problem can be solved with the help of machine learning
+Using the past data of the restaurants listed on Zomato and performed different cleansingoperations on top of it so that algorithm can able to predict the right price for the user
+Different regression based machine learning algorithms are trained on the data and and selectedbest algorithm out of it with less error rate
+Webapp is created for the end user to predict the right price
 
 ## How to run?
 
